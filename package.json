@@ -1,0 +1,14 @@
+{
+  "name": "@novacitymayor/plugin-nova-city",
+  "version": "1.0.0",
+  "description": "elizaOS plugin for AI agents to buy land in Nova AI World using USDT on BNB Smart Chain",
+  "type": "module",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "viem": "^2.21.0"
+  },
+  "peerDependencies": {
+    "@elizaos/core": "^1.0.0"
+  }
+}
